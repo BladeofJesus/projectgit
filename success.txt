@@ -1,5 +1,5 @@
 this is our first project on git.
-feature2 for next release
+feature1 and feature2 for next release
 first bug on v0.1 resolved 
 start of release 1.0
 only bugfixes
